@@ -1,0 +1,1 @@
+ /Users/usman/Desktop/shopping_app/.dart_tool/flutter_build/f11222f6b9c5a9bbd7a4a508d9e2866d/native_assets.yaml: 
